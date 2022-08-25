@@ -1,0 +1,8 @@
+nombre del sitio: yosmartapis 
+contraseña:       y0sm@rt#
+
+
+base de datos
+DB:	id17712891_yosmart_db1
+USER:	id17712891_yosmartdba
+PASSWD:	Q_bLTT)GrmLl6B4U

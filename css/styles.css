@@ -1,0 +1,134 @@
+.green-bg {
+	background-color: #11c308 !important;
+}
+.bg-ysyellow{
+	background-color:#ffffc8 !important;
+}
+.bg-ystrueyellow{
+	background-color:#ecf40d !important;
+}
+.bg-ysblue{
+	background-color:#160eb2 !important;
+}
+.bg-lime{
+	background-color:#2FFF00 !important;
+}
+.bg-lgreen{
+	background-color:#95EBAF !important;
+}
+.bg-lblue{
+	background-color:#A4EFF0 !important;
+}
+.bg-lgreen1{
+	background-color:#B6FAE0 !important;
+}
+.bg-lgreen2{
+	background-color:#9BE59A !important;
+}
+.bg-fhvblue{
+	background-color:#006b99 !important;
+}
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.bg-banner2{
+	height: 400px;
+	background-image: url("../img/b1.jpg");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position: center center;
+}
+.text-darckgreen{
+	color:#1FA700 !important;
+}
+.text-ysyellow{
+	color:#ffffc8 !important;
+}
+.text-lime{
+	color:#2FFF00 !important;
+}
+.text-ysblue{
+	color:#160eb2 !important;
+}
+.text-ysgreen{
+	color:#11c308 !important;
+}
+.text-yellow{
+	color:#F0E500 !important;
+}
+.text-lyellow{
+	color:#FDFF73 !important;
+}
+.text-dyellow{
+	color:#ECEF03 !important;
+}
+.text-fhvlink{
+	color:#00F0FF !important;
+}
+.disclaimer{
+	background-color:#3B3939 !important;
+	border-radius:5px !important;
+	
+}
+.addmargint {
+    margin-top: 15px !important;
+}
+.addmarginb {
+    margin-bottom: 15px !important;
+}
+.gray-input{
+	background-color:#A6A2A2 !important;
+	color:#ffffff;
+	cursor:pointer ;
+}
+.gray-textarea{
+	background-color:#DEDEDE !important;
+	
+}
+body{
+	font-family: "Times New Roman",serif,"arial" !important;
+}
+select{
+	background-color:#A6A2A2 !important;
+	color:#ffffff;
+	cursor:pointer ;
+}
+.doubleline{
+	line-height: 150% !important;
+}
+.whitetitle{
+	color:#ffffff;
+}
+.addmargin{
+	margin-top: 10px !important;
+	margin-bottom: 10px !important;
+	margin-left: 10px !important;
+	margin-right: 10px !important;
+}
+.padding-text{
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
+.addpadding{
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+}
+.compres-text{
+	padding-left: 13px !important;
+	padding-right: 13px !important;
+}
+.fullwidth-btn{
+	
+	width:75%;
+}
+.bigbutton{
+	font-size:50px;
+}
+.mailbutton{
+	font-size:40px;
+}
